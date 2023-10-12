@@ -1,4 +1,4 @@
-# GO COMMONS LIB
+# GO COMMONS
 
 This is an assortment of various shims/helpers/utilities for how I do things in Go.
 
