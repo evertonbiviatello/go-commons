@@ -56,7 +56,7 @@ func New(opts ...Option) (*Server, error) {
 	//			return nil, fmt.Errorf("could not generate autocert server certificate: %w", err)
 	//		}
 	//		// Horrible unstoppable disclaimer
-	//		fmt.Println("*** GENERATING A DEV CERTIFICATE - THIS SHOULD NEVER BE USED IN PRODUCTION ***")
+	//		log.Println("*** GENERATING A DEV CERTIFICATE - THIS SHOULD NEVER BE USED IN PRODUCTION ***")
 	//	} else {
 	//		// Load keys from file
 	//		cert, err = tls.LoadX509KeyPair(s.config.CertFile, s.config.KeyFile)

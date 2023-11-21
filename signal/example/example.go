@@ -1,14 +1,11 @@
 package main
 
-func main() {
-
-}
-
+//
 //import (
 //	"fmt"
 //	"time"
 //
-//	"github.com/snowzach/golib/signal"
+//	"github.com/evertonbiviatello/go-commons/signal"
 //)
 //
 //func main() {
