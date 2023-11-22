@@ -10,7 +10,7 @@ require (
 	github.com/jackc/pgx v3.6.2+incompatible
 	github.com/jackc/pgx/v5 v5.5.0
 	github.com/jmoiron/sqlx v1.3.5
-	github.com/knadh/koanf v1.4.2
+	github.com/knadh/koanf v1.5.0
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/shopspring/decimal v1.3.1
 	github.com/spf13/cast v1.5.1
@@ -19,7 +19,7 @@ require (
 
 require (
 	github.com/fatih/structs v1.1.0 // indirect
-	github.com/fsnotify/fsnotify v1.6.0 // indirect
+	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
